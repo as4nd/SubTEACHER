@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187905437828",
+    "firebase_url": "https://substituteteacher-ad16f.firebaseio.com",
+    "project_id": "substituteteacher-ad16f",
+    "storage_bucket": "substituteteacher-ad16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187905437828:android:289c1ec8f25925fd",
+        "android_client_info": {
+          "package_name": "com.example.letstrythisagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187905437828-5ei9dcd8ukf4fqpf5g6ha3oro315m071.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letstrythisagain",
+            "certificate_hash": "7e746c0bdf571a348a5194dd1eabcfb843acd341"
+          }
+        },
+        {
+          "client_id": "187905437828-8v97oufgjpi6712nmef6532930o2dsf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8eJXSX70chxz2SJkyzyPO7-CSTf4TxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187905437828-8v97oufgjpi6712nmef6532930o2dsf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
